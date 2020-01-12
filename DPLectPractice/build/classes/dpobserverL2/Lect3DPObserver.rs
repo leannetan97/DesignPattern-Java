@@ -1,0 +1,8 @@
+dpobserverL2.Observer
+dpobserverL2.DisplayElement
+dpobserverL2.StaticsDisplay
+dpobserverL2.ForecastDisplay
+dpobserverL2.CurrentConditionsDisplay
+dpobserverL2.Subject
+dpobserverL2.Lect3DPObserver
+dpobserverL2.WeatherData

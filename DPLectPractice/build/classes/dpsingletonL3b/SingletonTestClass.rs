@@ -1,0 +1,3 @@
+dpsingletonL3b.ChocolateBoiler
+dpsingletonL3b.SingletonTestClass
+dpsingletonL3b.ChocolateController

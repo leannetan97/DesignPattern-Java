@@ -1,0 +1,13 @@
+dpstrategyL1a.DecoyDuck
+dpstrategyL1a.FlyBehavior
+dpstrategyL1a.QuackBehavior
+dpstrategyL1a.RedheadDuck
+dpstrategyL1a.FlyWithWings
+dpstrategyL1a.FlyNoWay
+dpstrategyL1a.Duck
+dpstrategyL1a.Squeak
+dpstrategyL1a.Lect2DPStrategy
+dpstrategyL1a.MallardDuck
+dpstrategyL1a.MuteQuack
+dpstrategyL1a.RubberDuck
+dpstrategyL1a.Quack
