@@ -16,5 +16,5 @@ The contents as follow:
 8. State
 9. Template Method
 10. Iterator
-11. -
+11. ----
 12. Composite
